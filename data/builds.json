@@ -1,0 +1,4 @@
+[
+ {"id":"demo-agi","name":"Build Agilité (exemple)","class":"À définir","level":200,"server":"À définir","stats":{"power":250,"vitality":4200,"agility":1100,"intelligence":0,"chance":0,"strength":0,"critical":35},"gear":["Objet exemple A","Objet exemple B"],"notes":"Données fictives à remplacer par des valeurs vérifiées."},
+ {"id":"demo-feu","name":"Build Intelligence (exemple)","class":"À définir","level":200,"server":"À définir","stats":{"power":180,"vitality":3900,"agility":0,"intelligence":1250,"chance":0,"strength":0,"critical":25},"gear":["Objet exemple C","Objet exemple D"],"notes":"Données fictives à remplacer par des valeurs vérifiées."}
+]
